@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dmcrse.com/zh-cn/ComeAsExp-app-review/</loc>
+    
+    <lastmod>2021-03-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dmcrse.com/port-conflict-issues-between-protonmailbridge-and-expressvpn/</loc>
     
     <lastmod>2021-03-10</lastmod>
@@ -96,6 +103,20 @@
   
   <url>
     <loc>https://dmcrse.com/tags/Thunderbird/</loc>
+    <lastmod>2021-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dmcrse.com/tags/app/</loc>
+    <lastmod>2021-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dmcrse.com/tags/ComeAsExp/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
